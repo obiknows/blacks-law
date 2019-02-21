@@ -1,5 +1,5 @@
-Blacks Law
-==========
+Black's Law
+===========
 
 this repo is home of the free Black's Law Dictionary App
 
